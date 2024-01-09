@@ -9,5 +9,7 @@
     <h1>teste</h1>
     <hr>
     <p>Lorem ipsum</p>
+    <hr>
+    <h1>teste2</h1>
 </body>
 </html>
